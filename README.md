@@ -5,6 +5,6 @@
 * Fuctionality to check if users are typing and current online users.
 * Tools used JavaScript, NodeJs, Web Sockets, HTML, CSS.
 
-Deployed on Heroku: https://a-chatting-app.herokuapp.com
+Deployed on Heroku: https://mscorpes.herokuapp.com/
 
 Link for the tutorial: https://himanshuagarwal190.medium.com/building-a-chat-application-from-scratch-with-room-functionality-df3d1e4ef662

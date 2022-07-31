@@ -1,4 +1,4 @@
-# ChatApp
+
 
 * A web based chat application where people can connect with each other.
 * Users can create Unique rooms and share it people to have private converstions.
@@ -7,4 +7,4 @@
 
 Deployed on Heroku: https://mscorpes.herokuapp.com/
 
-Link for the tutorial: https://himanshuagarwal190.medium.com/building-a-chat-application-from-scratch-with-room-functionality-df3d1e4ef662
+
